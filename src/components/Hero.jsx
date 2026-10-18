@@ -3,7 +3,7 @@ import { alpha } from "@mui/material/styles";
 import { lightGreen } from "@mui/material/colors";
 import { Link as RouterLink, useNavigate } from "react-router-dom";
 import { useTranslation } from "react-i18next";
-import heroImage from "../assets/images/hero3.jpg";
+import heroImage from "../../public/hero.webp";
 import SearchField from "./SearchField";
 import { scrollToSection } from "../utils/scroll";
 
