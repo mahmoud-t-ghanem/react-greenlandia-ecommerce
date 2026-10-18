@@ -12,7 +12,7 @@ import { Link as RouterLink } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import SectionHeading from "../components/SectionHeading";
 import { getGlowCardSx } from "../utils/glowCard";
-import storyImage from "../../public/hero_2.webp";
+import storyImage from "../../public/story.webp";
 
 const PILLARS = [
   { key: "mission", Icon: Flag },
